@@ -17,8 +17,7 @@ Once a match is identified, the system calculates the start and end coordinates 
 ## Sample JSON Output
 When the engine completes its run, it generates a structured report like the one below:
 
-JSON
-```
+```JSON
 {
     "PYTHON": {
         "found_in": [
