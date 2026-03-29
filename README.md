@@ -31,3 +31,39 @@ python-foundations/
 ├── assets/                 # Global screenshots and demos
 ├── aether-triad/           # Role-based logic simulation
 └── lexical-pattern-engine/ # Matrix search and JSON exporter
+```
+
+---
+
+## 🛠️ Installation & Execution
+
+These engines are built using **Python 3.x** and utilize standard libraries, requiring no external dependencies (like `pip`) to run.
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/mung569/python-logic-engines.git](https://github.com/mung569/python-logic-engines.git)
+cd python-logic-engines
+```
+
+### 2. Run the Engines
+
+#### Lexical Pattern-Matching Engine
+Processes the wordpuzzle.txt grid and exports coordinates to a JSON file.
+```bash
+cd lexical-pattern-engine
+python word_search_solver.py
+```
+
+#### Aether-Triad: Logic Simulator
+Starts an interactive, terminal-based behavioral simulation.
+```bash
+cd aether-triad
+python aether_triad.py
+```
+
+---
+
+## 📊 Expected Output
+* **Lexical Engine:** Displays the character matrix in the terminal and generates a word_search_results.json file in the project folder.
+
+* **Aether-Triad:** Launches an interactive menu for role selection and real-time score tracking against the automated opponent.
