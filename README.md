@@ -1,5 +1,5 @@
 # Python Logic Engines: Matrix & Behavioral Simulations
-A collection of Python-based projects focused on algorithmic efficiency, data structure traversal, and automated file processing. This repository demonstrates the transition from procedural logic to complex pattern-matching and structured data management.
+This repository features a collection of Python-based engines focused on algorithmic efficiency, 2D-matrix traversal, and automated file processing. Originally developed in late 2025 as part of an intensive programming curriculum, these projects have been refactored to demonstrate a transition from procedural logic to professional-grade pattern matching and structured data management.
 
 ## 🚀 Projects Overview
 
